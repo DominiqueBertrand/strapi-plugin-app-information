@@ -1,0 +1,44 @@
+{
+  "name": "strapi-plugin-app-information",
+  "version": "1.0.0",
+  "description": "Add a new entry in the Strapi admin panel to display the application information from package.json",
+  "strapi": {
+    "name": "app-information",
+    "displayName": "App Version",
+    "description": "Add a new entry in the Strapi admin panel to display the application information from package.json",
+    "kind": "plugin"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DominiqueBertrand/strapi-plugin-app-information.git"
+  },
+  "keywords": [
+    "strapi",
+    "information",
+    "coopengo",
+    "coog"
+  ],
+  "dependencies": {
+    "app-root-path": "^3.1.0"
+  },
+  "peerDependencies": {
+    "@strapi/strapi": "^4.13.7"
+  },
+  "author": {
+    "name": "Dominique BERTRAND",
+    "email": "dominique.bertrand@gmail.com",
+    "url": "https://github.com/DominiqueBertrand"
+  },
+  "maintainers": [
+    {
+      "name": "Dominique BERTRAND",
+      "email": "dominique.bertrand@gmail.com",
+      "url": "https://github.com/DominiqueBertrand"
+    }
+  ],
+  "engines": {
+    "node": ">=16.x.x <=20.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}

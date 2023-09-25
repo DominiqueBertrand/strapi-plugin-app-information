@@ -1,0 +1,7 @@
+{
+    "plugin.name": "App Information",
+    "pages.PluginPage.header.description": "Get information about the current application",
+    "pages.PluginPage.label.name": "Name",
+    "pages.PluginPage.label.version": "Version",
+    "pages.PluginPage.label.description": "Description"
+}

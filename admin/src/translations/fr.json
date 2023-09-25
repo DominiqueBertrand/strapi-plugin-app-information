@@ -1,0 +1,4 @@
+{
+    "plugin.name": "App Information",
+    "pages.PluginPage.header.description": "Obtener des informations relatives à l'application actuelle"
+}
